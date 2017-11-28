@@ -1,8 +1,31 @@
+body{
+     border: 1px solid red;
+     font-family: 'Montserrat', sans-serif;
+     width: 90%;
+}
 table{
   border: 1px solid black;
-  margin: 20px;
 }
 
 td{
   border: 1px solid green;
+}
+
+/* En tête */
+
+.Head{
+     width: 80%;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 64px;
+     text-transform: uppercase;
+     color: #5589CA;
+}
+
+.UnderHead{
+     font-size: 32px;
+}
+
+.TabHaut{
+     margin-top: 10%;
+     margin-left: 10%;
 }
